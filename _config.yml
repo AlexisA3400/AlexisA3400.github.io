@@ -27,7 +27,7 @@ author:
   bio              : "Hi! My name is Alexis Alejandro and I am currently a senior at the University of Houston"
   location         : "Houston, Texas"
   employer         : "University of Houston"
-  uri              : "cs.uh.edu"# URL
+  uri              : "cs.uh.edu" # URL
   email            : "aalejan8@cougarnet.uh.edu" 
 
   # Academic websites
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/alexis-alejandro-6016331a2"# Username
+  linkedin         : "www.linkedin.com/in/alexis-alejandro-6016331a2" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
