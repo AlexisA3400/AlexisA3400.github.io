@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Alexis Alejandro"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Alexis Alejandro"
+description              : &description "Hi, my name is Alexis Alejandro and I am a senior at the University of Houston!"
+url                      : https://alexisa3400.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/alexis-alejandro-6016331a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BdGAmf7B9TXqXkq61GXXxPQ%3D%3D"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
