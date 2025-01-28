@@ -6,7 +6,7 @@
 
 main:
   - title: "Resume"
-    url: files/AlexisAlejandroResume.pdf
+    url: /files/AlexisAlejandroResume.pdf
 
   - title: "Talks"
     url: /talks/    
