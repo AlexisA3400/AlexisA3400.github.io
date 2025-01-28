@@ -17,4 +17,6 @@ My name is Alexis Alejandro, currently I am a senior at the University of Housto
 
 Please visit the other pages to find my resume.
 
+linkedin: www.linkedin.com/in/alexis-alejandro-6016331a2
+
 
