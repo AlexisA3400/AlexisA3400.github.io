@@ -24,6 +24,5 @@ I recently collaborated with teammates to develop a comprehensive user registrat
 <iframe width="560" height="315" src="https://www.youtube.com/embed/owLFAySZoO4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Please visit the other pages to find my resume.
 
 [LinkedIn Profile](https://www.linkedin.com/in/alexis-alejandro-6016331a2){:target="_blank"}
