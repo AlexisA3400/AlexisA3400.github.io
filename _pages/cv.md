@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Last updated:** January 2025  
+  
 **Alexis Alejandro**  
 Pasadena, Texas  
 Email: alexisalejandro3400@gmail.com  
