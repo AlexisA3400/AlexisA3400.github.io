@@ -69,7 +69,7 @@ Computer Science senior at the University of Houston with hands-on experience in
 ## Technical Projects
 
 **Secure User Registration Portal** | Python, Flask, Azure AD  
-*University Project | Fall 2024*  
+*University Project | Spring 2025*  
 - Designed project based on modern Software Design Standards  
 - Integrated Microsoft Identity Platform 
 - Implemented pdf generation for various forms 
@@ -92,7 +92,7 @@ Computer Science senior at the University of Houston with hands-on experience in
 **Development Tools & Practices:**  
 - Full SDLC Experience | Git Version Control | REST API Design  
 - Database Modeling (ERD) | Unit Testing (PyTest) | CI/CD Pipelines  
-]  
+- Flask Framework Experience | Azure 
 
 ---
 
