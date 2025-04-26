@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website!
-University of Houston - cs.uh.edu
-
+Welcome to my website!  
+[University of Houston - Computer Science](https://www.cs.uh.edu/){:target="_blank"}
 
 About Me
 ======
-My name is Alexis Alejandro, currently I am a senior at the University of Houston. Over my time at the university I have worked on many projects some of which may be found on this website. While studying here, I have decided to pursue a career is software engineering and software design. This website will continue to be populated with any future endeavors I will participate in.
+My name is Alexis Alejandro, currently I am a senior at the University of Houston. Over my time at the university I have worked on many projects some of which may be found on this website. While studying here, I have decided to pursue a career in software engineering and software design. This website will continue to be populated with any future endeavors I will participate in.
 
 Most Recent Project
 ======
@@ -26,4 +25,4 @@ I recently collaborated with teammates to develop a comprehensive user registrat
 
 Please visit the other pages to find my resume.
 
-linkedin: www.linkedin.com/in/alexis-alejandro-6016331a2
+[LinkedIn Profile](https://www.linkedin.com/in/alexis-alejandro-6016331a2){:target="_blank"}
