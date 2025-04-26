@@ -2,6 +2,7 @@
 title: "Flask User Authentication System"
 excerpt: "Secure web application with Azure AD integration<br/><img src='/images/flask-auth-screenshot.png' alt='Flask Auth System Interface'>"
 collection: portfolio
+video_id: "owLFAySZoO4"
 ---
 
 **Full-stack Development Project** | Python, Flask, Azure AD  
