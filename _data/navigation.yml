@@ -6,7 +6,7 @@
 
 main:
   - title: "Resume"
-    url: /files/AlexisResumeLaTex.pdf
+    url: /files/resume.pdf
 
   - title: "Portfolio"
     url: /portfolio/
