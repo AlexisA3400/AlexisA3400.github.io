@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Welcome to my website!  
+I am currently enrolled in the Computer Science Department at the University of Houston
 [University of Houston - Computer Science](https://www.cs.uh.edu/){:target="_blank"}
 
 About Me
