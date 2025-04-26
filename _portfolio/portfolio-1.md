@@ -29,4 +29,4 @@ video_id: "owLFAySZoO4"
 
 *Collaborators: Niket Gupta, Joseph Mascardo, John Gleiter, Alexis Alejandro*  
 [View Demo](https://www.youtube.com/watch?v=owLFAySZoO4){: .btn .btn--primary} 
-[GitHub Repository](#){:[ .btn .btn--info](https://github.com/jomosquito/Edmonton-v.02/tree/main#)}
+[GitHub Repository](https://github.com/jomosquito/Edmonton-v.02/tree/main){: .btn .btn--info}
