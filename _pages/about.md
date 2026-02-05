@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Welcome to my website!  
-I am currently enrolled in the Computer Science Department at the University of Houston
+I have recently graduated with my bachelor's in Computer Science at the University of Houston
 [University of Houston - Computer Science](https://www.uh.edu/nsm/computer-science/){:target="_blank"}
 
 About Me
