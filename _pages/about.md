@@ -13,7 +13,7 @@ I have recently graduated with my bachelor's in Computer Science at the Universi
 
 About Me
 ======
-My name is Alexis Alejandro, currently I am a senior at the University of Houston. Over my time at the university I have worked on many projects some of which may be found on this website. While studying here, I have decided to pursue a career in software engineering and software design. This website will continue to be populated with any future endeavors I will participate in.
+My name is Alexis Alejandro, I recently graduated from the University of Houston. Over my time at the university I have worked on many projects some of which may be found on this website. While studying here, I have decided to pursue a career in software engineering and software design. This website will continue to be populated with any future endeavors I will participate in.
 
 Most Recent Project
 ======
