@@ -30,3 +30,20 @@ video_id: "owLFAySZoO4"
 *Collaborators: Niket Gupta, Joseph Mascardo, John Gleiter, Alexis Alejandro*  
 [View Demo](https://www.youtube.com/watch?v=owLFAySZoO4){: .btn .btn--primary} 
 [GitHub Repository](https://github.com/jomosquito/Edmonton-v.02/tree/main){: .btn .btn--info}
+
+---
+title: "iOS Weather App"
+excerpt: "Mobile weather application with live API integration<br/><img src='/images/weather-app-screenshot.png' alt='iOS Weather App Interface'>"
+collection: portfolio
+---
+**Mobile Development Project** | Swift, iOS, REST API  
+### Key Features:
+- Integrated a third-party weather REST API to fetch real-time weather data by location
+- Displayed live conditions including temperature, humidity, precipitation, and wind speed
+- Implemented city search functionality to look up weather for any location worldwide
+- Designed a clean, native iOS UI with a photo header, icon-driven stats, and tab navigation
+- Practiced API key management, URL session networking, and JSON decoding in Swift
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/images/weather-app-screenshot.png" alt="iOS Weather App showing sunny conditions in Houston" style="max-width: 320px; border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
+</div>
