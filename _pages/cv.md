@@ -22,7 +22,7 @@ GitHub: alexisa3400
 
 Computer Science senior at the University of Houston with hands-on experience in full-stack development, database systems, and software engineering. Proficient in C++, Java, Python, and SQL with demonstrated ability to design scalable systems, optimize processes, and lead technical projects. Strong theoretical knowledge from advanced coursework and practical experience from developing production-ready applications. Passionate about creating efficient, secure, and user-centric software solutions.
 
-**Expected Graduation:** December 2025  
+**Graduated:** December 2025  
 **Technical Interests:** Web Development, Database Architecture, Authentication Systems, Process Automation  
 
 ---
@@ -30,7 +30,7 @@ Computer Science senior at the University of Houston with hands-on experience in
 ## Education
 
 **Bachelor of Science in Computer Science**  
-*University of Houston, Houston, TX | January 2022 - December 2025*  
+*University of Houston, Houston, TX | January 2021 - December 2025*  
 -  **Relevant Coursework:**  
   - Data Structures & Algorithms (with Java/C++ implementations)  
   - Database Systems: Designed relational schemas with PostgreSQL  
@@ -40,7 +40,7 @@ Computer Science senior at the University of Houston with hands-on experience in
 - **Projects:** Developed authentication middleware, implemented sorting algorithm visualizers  
 
 **Associate Level Coursework**  
-*San Jacinto Community College, Pasadena, TX | August 2020 - December 2021*  
+*San Jacinto Community College, Pasadena, TX | August 2020 - December 2020*  
 - Dean's List Honoree  
  
 
