@@ -4,9 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
-
 {% include base_path %}
-
 <style>
   /* Video embed styling */
   .video-embed {
@@ -61,7 +59,6 @@ author_profile: true
     border-width: 12px 0 12px 20px;
     border-color: transparent transparent transparent #fff;
   }
-
   /* Button styling */
   .btn-container {
     margin: 1.5rem 0;
@@ -93,7 +90,16 @@ author_profile: true
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   }
-
+  /* App screenshot styling */
+  .app-screenshot {
+    text-align: center;
+    margin: 2rem 0;
+  }
+  .app-screenshot img {
+    max-width: 280px;
+    border-radius: 40px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.2);
+  }
   /* Content styling */
   .portfolio-item {
     margin-bottom: 3rem;
@@ -137,9 +143,7 @@ author_profile: true
     Secure web application with Azure AD integration<br/>
     
   </div>
-
   <p><strong>Full-stack Development Project</strong> | Python, Flask, Azure AD</p>
-
   <h3>Key Features:</h3>
   <ul>
     <li>Implemented CRUD based administrator privileges</li>
@@ -148,7 +152,6 @@ author_profile: true
     <li>Designed responsive front-end with form validation and error handling</li>
     <li>Deployed containerized application using Docker for portability</li>
   </ul>
-
   <div class="video-embed">
     <a href="https://www.youtube.com/watch?v=owLFAySZoO4" target="_blank">
       <img src="https://img.youtube.com/vi/owLFAySZoO4/maxresdefault.jpg" alt="Flask Project Video Thumbnail">
@@ -157,11 +160,31 @@ author_profile: true
       </div>
     </a>
   </div>
-
   <p class="collaborators">Collaborators: Niket Gupta, Joseph Mascardo, John Gleiter, Alexis Alejandro</p>
   
   <div class="btn-container">
     <a href="https://www.youtube.com/watch?v=owLFAySZoO4" class="btn btn--primary" target="_blank">View Demo</a>
     <a href="https://github.com/jomosquito/Edmonton-v.02/tree/main" class="btn btn--info" target="_blank">GitHub Repository</a>
+  </div>
+</div>
+
+<div class="portfolio-item">
+  <h2 class="portfolio-title">iOS Weather App</h2>
+
+  <div class="excerpt">
+    Mobile weather application with live API integration
+  </div>
+  <p><strong>Mobile Development Project</strong> | Swift, iOS, REST API</p>
+  <h3>Key Features:</h3>
+  <ul>
+    <li>Integrated a third-party weather REST API to fetch real-time weather data by location</li>
+    <li>Displayed live conditions including temperature, humidity, precipitation, and wind speed</li>
+    <li>Implemented city search functionality to look up weather for any location worldwide</li>
+    <li>Designed a clean, native iOS UI with a photo header, icon-driven stats, and tab navigation</li>
+    <li>Practiced API key management, URL session networking, and JSON decoding in Swift</li>
+  </ul>
+
+  <div class="app-screenshot">
+    <img src="/images/weather-app-screenshot.png" alt="iOS Weather App showing sunny conditions in Houston">
   </div>
 </div>
