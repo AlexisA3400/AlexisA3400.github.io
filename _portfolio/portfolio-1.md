@@ -47,3 +47,23 @@ collection: portfolio
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/weather-app-screenshot.png" alt="iOS Weather App showing sunny conditions in Houston" style="max-width: 320px; border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
 </div>
+
+---
+title: "Library Database System"
+excerpt: "Full-stack library management app with PostgreSQL<br/><img src='/images/library-app-screenshot.png' alt='Library Database System Welcome Page'>"
+collection: portfolio
+---
+**Full-stack Web Project** | Vue.js, Node.js, PostgreSQL  
+### Key Features:
+- Built a full-stack library management system backed by a PostgreSQL relational database
+- Implemented role-based access control for patrons, publishers, and administrators
+- Developed RESTful API endpoints with Node.js for item checkout, holds, and fines
+- Designed a responsive Vue.js front-end with per-role profile dashboards
+- Modeled library entities (books, users, fines, holds) with normalized SQL schemas
+<div class="app-screenshot">
+  <img src="/images/library-app-screenshot.png" alt="Library Database System welcome page showing navigation and information panel">
+</div>
+<div class="btn-container">
+  <a href="https://github.com/Andrew-Cha/COSC3380" class="btn btn--info" target="_blank">GitHub Repository</a>
+</div>
+ 
